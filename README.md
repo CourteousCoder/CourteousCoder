@@ -1,4 +1,4 @@
-- 👋 Just your friendly neighborhood full-stack web developer
+- 👋 Just your friendly neighborhood software developer
 - 👀 I’m interested in Linux, linguistics, robotics, life hacks, and music.
 - 🌱 I’m currently learning Rust, Web Assembly, and game development on the side
 - 💞️ I’m looking to collaborate on web development, system utils, libraries and frameworks
