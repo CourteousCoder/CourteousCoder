@@ -6,7 +6,7 @@
 
 
 ## Want to work with me?
-Check out my [Upwork profile](https://www.upwork.com/freelancers/~01590c0e3f21598b65), my [full-stack resume](https://chloe.short.gy/fullstack), or my [backend/DevOps resume](https://chloe.short.gy/backend)
+Check out my [Upwork profile](https://www.upwork.com/freelancers/chloe), my [full-stack resume](https://chloe.short.gy/fullstack), or my [backend/DevOps resume](https://chloe.short.gy/backend)
 
 > **Note** If you found me _**via**_ Upwork, then out of respect for their policy, please keep all contact **within** the Upwork platform before a contract. Thank you!
 <!---
